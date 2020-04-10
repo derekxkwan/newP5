@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+PROJNAME=$1
+mkdir $PROJNAME
+cp templates/script.js $PROJNAME
+cp templates/index.html $PROJNAME
