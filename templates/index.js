@@ -1,3 +1,4 @@
+import("../lib/p5.min.js");
 let cw = window.innerWidth;
 let ch = window.innerHeight;
 
